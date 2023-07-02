@@ -1,5 +1,5 @@
-### Hi! I’m Ana Luiza! 👋
-📚 Studying at Instituto Federal Catarinense - Campus Araquari
+### Oi! Meu nome é Ana Luiza! 👋
+📚 IFC - Instituto Federal Catarinense - Campus Araquari
 
 <div align="center">
   <a href="https://github.com/AnaLuizaDias">
